@@ -1,5 +1,9 @@
 # Change logs
 
+- 0.0.0.28
+Fixed a problem with spells Detection (detecting the spell twice etc)
+Fixed some spells End detection (Darius Q, Sion Q R, Wukong R, Galio R, Gragas E, Shen E, Sejuani Q, VI Q, Nunu R, Warwick R)
+
 - 0.0.0.27
 Fixed Spells with explode end dodging
 Fixed a problem with drawings
