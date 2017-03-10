@@ -1,5 +1,9 @@
 # Change logs
 
+- 0.0.0.30
+> - Fixed issues with Yasuo windwall
+> - Added Toggle key for Dodge Dangerous spells only
+
 - 0.0.0.29
 > - Fixed spells getting removed too fast
 
