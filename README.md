@@ -6,6 +6,7 @@
 > - Fixed Swain W double Detection
 > - Fixed Problem with Orianna and Xerath W
 > - Fixed Lux Q and Gragas R getting removed early
+> - Fixed stopping at skillshot edge
 > - No longer Detecting targeted spells if the target is the player (Lee R)
 > - Improved Evading logic
 > - Improved FPS
