@@ -1,5 +1,19 @@
 # Change logs
 
+- 0.0.0.31
+> - Fixed Riven Q3 and Zed Shadow Q detection
+> - Fixed Diana Q Explode End
+> - Fixed Swain W double Detection
+> - Fixed Problem with Orianna and Xerath W
+> - Fixed Lux Q and Gragas R getting removed early
+> - No longer Detecting targeted spells if the target is the player (Lee R)
+> - Improved Evading logic
+> - Improved FPS
+> - Semi-reworked and cleaned up the Skillshots database
+> - Added pathing around skillshot logic
+> - Added Ivern Daisy R Missile to the database
+> - Added nautilus and Caitlyn R evading
+
 - 0.0.0.30
 > - Fixed issues with Yasuo windwall
 > - Added Toggle key for Dodge Dangerous spells only
