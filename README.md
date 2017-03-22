@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.32
+> - Added Galio spells (Q, E, R)
+
 - 0.0.0.31
 > - Fixed Riven Q3 and Zed Shadow Q detection
 > - Fixed Diana Q Explode End
