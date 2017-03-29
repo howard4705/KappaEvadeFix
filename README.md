@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.34
+> - Small fixes
+
 - 0.0.0.33
 > - Added FoW check
 > - Added Undying buffs check
