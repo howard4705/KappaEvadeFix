@@ -1,5 +1,19 @@
 # Change logs
 
+- 0.0.0.33
+> - Added FoW check
+> - Added Undying buffs check
+> - Fixed Some spells values
+> - Fixed Some spells Double Detection
+> - Fixed Some spells Detecting from wrong team
+> - Fixed Some Caitlyn R Detection
+> - Fixed Some possible Crashes
+> - Fixed some AutoAttacks detection for Windwaller (Yasuo/Fiora W)
+> - Evade Point now Refresh On Dash/ Flashing
+> - Improved Evade spells usage (now uses more often)
+> - Improved Evade point selection (Now pref player current path)
+> - Improved Orianna R Position Detection (Now follow BallHolder on flash/Dash)
+
 - 0.0.0.32
 > - Added Galio spells (Q, E, R)
 
