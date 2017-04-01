@@ -1,5 +1,9 @@
 # Change logs
 
+- 0.0.0.35
+> - Fixed Evade spells
+> - Added Baron Tail evading
+
 - 0.0.0.34
 > - Small fixes
 
