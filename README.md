@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.36
+> - Fix fps
+
 - 0.0.0.35
 > - Fixed Evade spells
 > - Added Baron Tail evading
