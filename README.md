@@ -1,5 +1,11 @@
 # Change logs
 
+- 0.0.0.35
+> - Fixed stopping at skillshot edges (Also fix stopping inside Veigar E)
+> - Improved evading under towers
+> - Improved Finding evade points speed
+> - Improved Evade spells (should react faster)
+
 - 0.0.0.36
 > - Fix fps
 
