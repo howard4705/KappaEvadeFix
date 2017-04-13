@@ -1,6 +1,13 @@
 # Change logs
 
-- 0.0.0.35
+- 0.0.0.38
+> - Made the evade text change when having OnlyDangerous mode active
+> - Improved evade path selection
+> - Added more options to evade spells (Away from Enemies / To Allies)
+> - Fixed some fps drops with Ashe W
+> - Fixed Leesin Q values
+
+- 0.0.0.37
 > - Fixed stopping at skillshot edges (Also fix stopping inside Veigar E)
 > - Improved evading under towers
 > - Improved Finding evade points speed
