@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.39
+> - Fixed Jinx E not getting removed
+
 - 0.0.0.38
 > - Made the evade text change when having OnlyDangerous mode active
 > - Improved evade path selection
