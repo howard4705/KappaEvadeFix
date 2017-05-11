@@ -1,5 +1,12 @@
 # Change logs
 
+- 0.0.0.40
+> - Added Skillshots the Collide On Explode (Ashe R, Corki R, Karma Q, Jinx R)
+> - Added and updated all new Skillshots (Rakan, Maokai, Sejuani, Xayah, Zac)
+> - Fixed issue with the evade walking into random directions (rare)
+> - Fixed Ekko W lasting long after detection from fow
+> - Disabled pathing around skillshots temporary
+
 - 0.0.0.39
 > - Fixed Jinx E not getting removed
 
