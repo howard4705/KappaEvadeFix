@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.42
+> - Revert some changes
+
 - 0.0.0.41
 > - Fixed Crashes
 
