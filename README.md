@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.41
+> - Fixed Crashes
+
 - 0.0.0.40
 > - Added Skillshots that Collide On Explode (Ashe R, Corki R, Karma Q, Jinx R)
 > - Added and updated all new Skillshots (Rakan, Maokai, Sejuani, Xayah, Zac)
