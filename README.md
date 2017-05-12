@@ -1,6 +1,6 @@
 # Change logs
 
-- 0.0.0.41 ~ 43
+- 0.0.0.41 ~ 44
 > - Fixed Crashes
 
 - 0.0.0.40
