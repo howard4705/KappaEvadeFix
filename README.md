@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.45
+> - Fixed Yasuo windwall collision check
+
 - 0.0.0.41 ~ 44
 > - Fixed Crashes
 
