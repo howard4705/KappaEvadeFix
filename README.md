@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.46
+> - Fixed Detecting skillshots missiles
+
 - 0.0.0.45
 > - Fixed Yasuo windwall collision check
 
