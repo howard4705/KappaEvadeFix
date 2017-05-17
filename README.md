@@ -1,5 +1,10 @@
 # Change logs
 
+- 0.0.0.47
+> - Added fast evade mode
+> - Updated spell values to match the new patch
+> - small bug fixes
+
 - 0.0.0.46
 > - Fixed Detecting skillshots missiles
 
