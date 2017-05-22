@@ -1,5 +1,13 @@
 # Change logs
 
+- 0.0.0.48
+> - Added Slider for Evade points refresh rate
+> - Added Slider to change Evade points limit
+> - Fixed walking back after dashing/blink
+> - Fixed AA while pathing
+> - Fixed randomly sticking to skillshots
+> - small bug fixes
+
 - 0.0.0.47
 > - Added fast evade mode
 > - Updated spell values to match the new patch
