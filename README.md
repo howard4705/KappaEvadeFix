@@ -1,5 +1,10 @@
 # Change logs
 
+- 0.0.0.49
+> - Fixed global skillshots not being tracked till the end
+> - Added extra move distance from skillshot
+> - More small bugfixes
+
 - 0.0.0.48
 > - Added Slider for Evade points refresh rate
 > - Added Slider to change Evade points limit
