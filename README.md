@@ -1,5 +1,12 @@
 # Change logs
 
+- 0.0.0.50
+> - Fixed sticking to skillshots
+> - Fixed Lux R size from FoW
+> - Fixed Small issue with drawings
+> - Improved pathing
+> - FPS improvements
+
 - 0.0.0.49
 > - Fixed global skillshots not being tracked till the end
 > - Added extra move distance from skillshot
