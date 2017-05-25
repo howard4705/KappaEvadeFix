@@ -1,5 +1,9 @@
 # Change logs
 
+- 0.0.0.51
+> - Fixed Issue with Dodging allied skills when there is the same champion on the enemy team
+> - Minor bug fixes
+
 - 0.0.0.50
 > - Fixed sticking to skillshots
 > - Fixed Lux R size from FoW
