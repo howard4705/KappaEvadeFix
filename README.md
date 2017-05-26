@@ -1,5 +1,11 @@
 # Change logs
 
+- 0.0.0.52
+> - Added Traps Support (Caitlyn W, Teemo R, Jhin E)
+> - Added Option to disable traps
+> - Adjusted Annie R CastDelay, should flash it sooner now
+> - Minor bug fixes
+
 - 0.0.0.51
 > - Fixed Issue with Dodging allied skills when there is the same champion on the enemy team
 > - Minor bug fixes
