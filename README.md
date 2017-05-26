@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.53
+> - Fixed issue with traps removal
+
 - 0.0.0.52
 > - Added Traps Support (Caitlyn W, Teemo R, Jhin E)
 > - Added Option to disable traps.
