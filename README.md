@@ -1,5 +1,9 @@
 # Change logs
 
+- 0.0.0.54
+> - Improved FPS
+> - Some bugfixes
+
 - 0.0.0.53
 > - Fixed issue with traps removal
 
