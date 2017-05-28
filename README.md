@@ -1,5 +1,8 @@
 # Change logs
 
+- 0.0.0.55
+> - Crashes fixed
+
 - 0.0.0.54
 > - Improved FPS
 > - Some bugfixes
