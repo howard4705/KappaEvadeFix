@@ -1,5 +1,10 @@
 # Change logs
 
+- 0.0.0.56
+> - Added more evade spells (Rakan W and E / Xayah R)
+> - Major FPS Improvements
+> - Minor bug fixes
+
 - 0.0.0.55
 > - Crashes fixed
 
