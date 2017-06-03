@@ -1,5 +1,11 @@
 # Change logs
 
+- 0.0.0.58
+> - Added Ekko Q Expand part
+> - Added Most of Doom Bots of doom game mode spells ~60%
+> - Improved Spells that start behind the caster (Illaoi Q, Thresh E, Galio E)
+> - Updated Syndra W Values for patch 7.11
+
 - 0.0.0.56
 > - Added more evade spells (Rakan W and E / Xayah R)
 > - Major FPS Improvements
